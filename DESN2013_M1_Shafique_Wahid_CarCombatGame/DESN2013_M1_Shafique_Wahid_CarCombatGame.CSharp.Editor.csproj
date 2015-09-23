@@ -119,20 +119,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp.Plugins.csproj">
-      <Project>{32C3B3DC-250E-A012-8081-49F0DA883172}</Project>
-      <Name>DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp.Plugins</Name>
+    <ProjectReference Include="DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp.csproj">
+      <Project>{43B9AFC3-0CBF-A1B2-D740-CAEE6880DC5E}</Project>
+      <Name>DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
-    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
-    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
-    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
+    <None Include="Assets\Environment\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Environment\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
+    <None Include="Assets\Environment\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
+    <None Include="Assets\Environment\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
+    <None Include="Assets\Environment\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
+    <None Include="Assets\ProjectSettings\ProjectVersion.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>

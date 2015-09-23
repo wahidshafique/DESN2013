@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp.Plugins", "DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp.Plugins.csproj", "{32C3B3DC-250E-A012-8081-49F0DA883172}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp", "DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp.csproj", "{43B9AFC3-0CBF-A1B2-D740-CAEE6880DC5E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp.Editor", "DESN2013_M1_Shafique_Wahid_CarCombatGame.CSharp.Editor.csproj", "{D1671818-1BCB-5940-2EEF-9629720A820C}"
 EndProject
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{32C3B3DC-250E-A012-8081-49F0DA883172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32C3B3DC-250E-A012-8081-49F0DA883172}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32C3B3DC-250E-A012-8081-49F0DA883172}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32C3B3DC-250E-A012-8081-49F0DA883172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B9AFC3-0CBF-A1B2-D740-CAEE6880DC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B9AFC3-0CBF-A1B2-D740-CAEE6880DC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B9AFC3-0CBF-A1B2-D740-CAEE6880DC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B9AFC3-0CBF-A1B2-D740-CAEE6880DC5E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D1671818-1BCB-5940-2EEF-9629720A820C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D1671818-1BCB-5940-2EEF-9629720A820C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1671818-1BCB-5940-2EEF-9629720A820C}.Release|Any CPU.ActiveCfg = Release|Any CPU
