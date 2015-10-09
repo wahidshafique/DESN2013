@@ -11,6 +11,5 @@ public class TurretScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         transform.LookAt(player);
-        
 	}
 }
